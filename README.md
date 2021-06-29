@@ -29,9 +29,8 @@ Matplotlib - To plot graphs, histograms to represent the results visually.
 Scource Code Files:
 
 1. PcapToDB.ipynb - Run this first on pcap files to save data into database
-2. 
-3. ExtractFeatures.ipynb - Run this file after PcapToDB.ipynb. Extract the features of the dataset and compare the graphs of IoT(Light Bulb) and non-IoT device(Macbook - other devices were not active on that day)
-				As mentioned in paper, the data of Light bulb of 28th September 2016 was used.
+2. ExtractFeatures.ipynb - Run this file after PcapToDB.ipynb. Extract the features of the dataset and compare the graphs of IoT(Light Bulb) and non-IoT device(Macbook - other devices were not active on that day)
+As mentioned in paper, the data of Light bulb of 28th September 2016 was used.
 				
 3. Graph.ipynb - Plot graphs of ports and frequencies
 
